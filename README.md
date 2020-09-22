@@ -38,7 +38,6 @@ all stage <br>
 ## 개발 환경
 Development environment: <br>
 
-+ 하드웨어 - AVD (Api: 24)
++ 하드웨어 - AVD Player (Api: 24)
 + 언어 - java, xml
 + 캡처
-<img width="480" alt="memorygame_pik" src="https://user-images.githubusercontent.com/11024746/93783597-d6460c00-fc66-11ea-8073-c95463802345.png">
