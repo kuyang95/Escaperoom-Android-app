@@ -41,3 +41,6 @@ Development environment: <br>
 + 하드웨어 - AVD Player (Api: 24)
 + 언어 - java, xml
 + 캡처
+
+<img width="339" alt="스크린샷 2020-09-22 오전 10 36 21" src="https://user-images.githubusercontent.com/11024746/93837139-08d02300-fcc0-11ea-8f1e-3eb71b2da333.png">
+<img width="333" alt="스크린샷 2020-09-22 오전 10 37 28" src="https://user-images.githubusercontent.com/11024746/93837150-108fc780-fcc0-11ea-9fa6-053e559a2033.png">
