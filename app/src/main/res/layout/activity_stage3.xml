@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+
+    <AbsoluteLayout
+        android:id="@+id/AbsoluteLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:background="@drawable/class01">
+
+        <Button
+            android:id="@+id/popup_button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="200dp"
+            android:layout_y="290dp"
+            android:background="#00ff0000"
+             />
+
+        <Button
+            android:id="@+id/popup_button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="115dp"
+            android:layout_y="180dp"
+            android:background="#00ff0000"
+           />
+
+        <Button
+            android:id="@+id/popup_button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="230dp"
+            android:layout_y="20dp"
+            android:background="#00ff0000"
+             />
+
+        <Button
+            android:id="@+id/popup_button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_x="317dp"
+            android:layout_y="141dp"
+            android:background="#00ff0000"
+            />
+
+
+    </AbsoluteLayout>
+
+</LinearLayout>

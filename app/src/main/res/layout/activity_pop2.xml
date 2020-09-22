@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/diary2"
+  >
+
+
+    <Button
+        android:id="@+id/CloseButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="닫기"
+        android:layout_alignParentRight="true"
+        />
+
+    <Button
+        android:id="@+id/movenewActivity2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/CloseButton2"
+        android:clickable="true"
+        android:onClick="moveActivity2"
+        android:text="이동"
+        />
+
+</RelativeLayout>
